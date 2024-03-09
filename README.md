@@ -1,8 +1,5 @@
 #  :snail: Creating a 3D maze game using opengl
-
-Forming images of exhibition works using OoenCV, Adain algorithms and Photomosaic
-
-
+https://github.com/imyoumin/Computer-graphics-maze-game-OpenGL/assets/69343466/c0225882-effb-415f-9c69-6113ca225809
 
 ##  :calendar: Develop Period
 2023/10/30 ~ 2023/12/11
@@ -17,4 +14,4 @@ Forming images of exhibition works using OoenCV, Adain algorithms and Photomosai
 
 
 ## :camera: Images
-
+![maze1](https://github.com/imyoumin/Computer-graphics-maze-game-OpenGL/assets/69343466/855a59ed-7cee-4963-b617-2d95eb2f80f2)
