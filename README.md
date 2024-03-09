@@ -1,6 +1,7 @@
 #  :snail: Creating a 3D maze game using opengl + SOR modeling
 
 We created a 3D maze game using opengl. We also produced a sor modeling program. Models created through the sor modeling program can be placed within the maze. The maze exploration game is first-person and implements various elements such as walking sounds, jumping, restart, and moving walls.
+
 https://github.com/imyoumin/Computer-graphics-maze-game-OpenGL/assets/69343466/c0225882-effb-415f-9c69-6113ca225809
 
 ##  :calendar: Develop Period
